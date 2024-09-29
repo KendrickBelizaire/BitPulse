@@ -6,9 +6,6 @@ This is a Bitcoin price comparison app that identifies the lowest price across f
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Features
