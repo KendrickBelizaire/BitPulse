@@ -27,5 +27,5 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/bitcoin-price-comparison.git
+   git clone https://github.com/kendrickbelizaire/bitcoin-price-comparison.git
    cd bitcoin-price-comparison
