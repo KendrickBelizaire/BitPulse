@@ -16,7 +16,7 @@ This is a Bitcoin price comparison app that identifies the lowest price across f
 ## Tech Stack
 - **Frontend**: React, TailwindCSS
 - **Backend**: Node.js, Express
-- **Data Fetching**: Axios, REST APIs
+- **Data Fetching**: Axios, REST APIss
 
 ## Installation
 
